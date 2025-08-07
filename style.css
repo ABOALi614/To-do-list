@@ -59,19 +59,6 @@ body {
     color: #aaa;
   }
 
-.centered {
-    display: flex;
-    flex-direction: column;
-    justify-content: center;
-    align-items: center;
-    font-size: 24px;
-    background-color: #415a77;
-    font-weight: 300;
-}
-
-#spsp {
-    font-weight: 500;
-    cursor: pointer;
-}
-
+ 
   
+
